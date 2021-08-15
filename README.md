@@ -24,3 +24,5 @@ Cara Menggunakan:
    > 
    > hitung mundur sebelum memulai (detik hanya bilangan bulat):
 6. nah sekarang tutup jendela autoClick lalu buka aplikasi/game yang ingin anda cheat
+
+### [download](https://github.com/norman-andrians/autoclick/raw/main/dist/autoClick.exe)
